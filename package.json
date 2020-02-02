@@ -1,0 +1,19 @@
+{
+  "name": "jom-script-docs-theme",
+  "version": "1.0.0",
+  "description": "Documentation js theme for jom-script docs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willynlabs/jom-script-docs-theme.git"
+  },
+  "author": "John Lynch",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/willynlabs/jom-script-docs-theme/issues"
+  },
+  "homepage": "https://github.com/willynlabs/jom-script-docs-theme#readme"
+}
